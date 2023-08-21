@@ -1,13 +1,13 @@
 
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-  Hi there! I'm tinygeeker~ 
+  Hi there! I'm LeoStar~ 
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
 <a href="https://github.com/tinygeeker">
   <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@:tinygeeker?theme=rule34" alt="极客飞兔" />
+    <img align="right" src="https://count.getloli.com/get/@:tinygeeker?theme=rule34" alt="LeoStar" />
   </div>
 </a>
 
@@ -38,10 +38,4 @@
 
 -->
 
-##### Some repo 
-
-* [autocue](https://github.com/tinygeeker/autocue)：🛠️AI drawing prompter tool.(AI绘画提词工具)🧰  [![](https://img.shields.io/github/stars/tinygeeker/autocue)](https://github.com/tinygeeker/autocue)
-* [python-spiders](https://github.com/tinygeeker/python-spiders)：🛠️Some crawler projects.(一些爬虫实战项目)🧰  [![](https://img.shields.io/github/stars/tinygeeker/python-spiders)](https://github.com/tinygeeker/python-spiders)
-* [ChatGPT-presets](https://github.com/tinygeeker/ChatGPT-presets)：🛠️Some interesting presets for ChatGPT.(一些ChatGPT有趣的预设包)🧰  [![](https://img.shields.io/github/stars/tinygeeker/ChatGPT-presets)](https://github.com/tinygeeker/ChatGPT-presets)
-* [sitemap](https://github.com/tinygeeker/sitemap)：🛠️Paddling fish website navigation.(划水摸鱼网站导航)🧰  [![](https://img.shields.io/github/stars/tinygeeker/sitemap)](https://github.com/tinygeeker/sitemap)
 
