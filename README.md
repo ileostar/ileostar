@@ -46,7 +46,7 @@
 ##### GitHub status
 
 ![LeoStar's GitHub stats](https://github-readme-stats-beta-one-61.vercel.app/api?username=030liuxinghao&show_icons=true&theme=cobalt&hide=issues&line_height=24)
-![](https://github-readme-stats-beta-one-61.vercel.app/api/top-langs/?username=030liuxinghao&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=350)
+![](https://github-readme-stats-beta-one-61.vercel.app/api/top-langs/?username=030liuxinghao&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=360)
 <!--
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=tinygeeker&theme=github)
