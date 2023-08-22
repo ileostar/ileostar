@@ -36,8 +36,7 @@
 <b>Hobbys:</b> music🎵,guitar🎸,badminton🏸,code⛏
 </li>
 <li>
-<b>Motto:</b> Throw away all the past and fetters, and don't be 
-  stingy with the tears shed for your dreams.
+<b>Motto:</b> Throw away all the past and fetters, and don't bestingy with the tears shed <br/> for your dreams.
 </li>
 </div>
 <div>
