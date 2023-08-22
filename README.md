@@ -5,7 +5,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
   <a href="https://github.com/030liuxinghao">
     <div align="right">
-      <img align="right" src="https://count.getloli.com/get/@:030liuxinghao?theme=rule30" alt="LeoStar"  style="margin-top: -30px;"/>
+      <img align="right" src="https://count.getloli.com/get/@:030liuxinghao?theme=rule30" alt="LeoStar"  style="margin-top: 29px;"/>
     </div>
   </a>
 </h3>
@@ -17,7 +17,7 @@
 ##### About Me
 <div align="center" >
   <a href="https://liuxinghao.top/" align="right" >
-   <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  align="right" />
+    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="315.5px" height="185.5px">
   </a>
   </div>
 <li>
@@ -38,7 +38,6 @@
 <li>
 <b>Motto:</b> Throw away all the past and fetters, and don't be stingy with the tears shed for your dreams.
 </li>
-<br>
 </div>
 <div>
   
