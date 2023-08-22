@@ -27,7 +27,7 @@
 
 ##### GitHub status
 
-![LeoStar's GitHub stats](https://github-readme-stats-beta-one-61.vercel.app/api?username=030liuxinghao&show_icons=true&theme=radical)
+![LeoStar's GitHub stats](https://github-readme-stats-beta-one-61.vercel.app/api?username=030liuxinghao&show_icons=true&theme=maroongold&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
 <!--
 
