@@ -5,7 +5,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
   <a href="https://github.com/030liuxinghao">
     <div align="right">
-      <img align="right" src="https://count.getloli.com/get/@:030liuxinghao?theme=rule30" alt="LeoStar"  style="margin-top: 25px;"/>
+      <img align="right" src="https://count.getloli.com/get/@:030liuxinghao?theme=rule30" alt="LeoStar"  style="margin-top: 27px;"/>
     </div>
   </a>
 </h3>
