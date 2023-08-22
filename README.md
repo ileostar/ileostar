@@ -1,23 +1,58 @@
 
-<h3>
+<h3 style="margin-bottom: -20px;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
   Hi there! I'm LeoStar~ 
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
+  <a href="https://github.com/030liuxinghao">
+    <div align="right">
+      <img align="right" src="https://count.getloli.com/get/@:030liuxinghao?theme=rule30" alt="LeoStar"  style="margin-top: -30px;"/>
+    </div>
+  </a>
 </h3>
 
-<a href="https://github.com/030liuxinghao">
-  <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@:030liuxinghao?theme=rule34" alt="LeoStar" />
-  </div>
-</a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=25&pause=1000&center=假&vCenter=真&repeat=真&width=435&lines=A+front-end+developer+in+Guangdong)](https://git.io/typing-svg)
 <!-- ======================================= -->
 
-* 😄Read more about my [Blog](https://liuxinghao.top/)
-
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
+##### About Me
+<div align="center" >
+  <a href="https://liuxinghao.top/" align="right" >
+   <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  align="right" />
+  </a>
+  </div>
+<li>
+ <b>Name:</b> LeoStar
+</li>
+<li>
+<b>Gender:</b> male🧑
+</li>
+<li>
+<b>Home page:</b> https://liuxinghao.top
+</li>
+<li>
+<b>Blog:</b> https://blog.liuxinghao.top
+</li>
+<li>
+<b>Hobbys:</b> music🎵,guitar🎸,badminton🏸,code⛏
+</li>
+<li>
+<b>Motto:</b> Throw away all the past and fetters, and don't be stingy with the tears shed for your dreams.
+</li>
+<br>
+</div>
+<div>
+  
+##### GitHub status
+  
+![LeoStar's GitHub stats](https://github-readme-stats-beta-one-61.vercel.app/api?username=030liuxinghao&show_icons=true&theme=cobalt&hide=issues&line_height=24)
+![](https://github-readme-stats-beta-one-61.vercel.app/api/top-langs/?username=030liuxinghao&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=360)
+<!--
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=25&pause=1000&center=假&vCenter=真&repeat=真&width=435&lines=A+front-end+developer+in+Guangdong)](https://git.io/typing-svg)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=tinygeeker&theme=github)
+![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinygeeker&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
+
+-->
 
 <!-- ======================================= -->
 
@@ -42,17 +77,5 @@
 ![](https://img.shields.io/badge/-Bilibili-white?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white)
 
 <!-- ======================================= -->
-
-##### GitHub status
-
-![LeoStar's GitHub stats](https://github-readme-stats-beta-one-61.vercel.app/api?username=030liuxinghao&show_icons=true&theme=cobalt&hide=issues&line_height=24)
-![](https://github-readme-stats-beta-one-61.vercel.app/api/top-langs/?username=030liuxinghao&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=360)
-<!--
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=tinygeeker&theme=github)
-![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinygeeker&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
-
--->
 
 
