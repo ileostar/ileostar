@@ -27,7 +27,7 @@
 <b>Gender:</b> male🧑
 </li>
 <li>
-<b>Home page:</b> https://liuxinghao.top
+<b>Home page:</b> https://leostar.top
 </li>
 <li>
 <b>Blog:</b> https://blog.liuxinghao.top
