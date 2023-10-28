@@ -17,7 +17,7 @@
 ##### About Me
 <div align="center" >
   <a href="https://liuxinghao.top/" align="right" >
-    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="315.5px" height="185.5px" style="margin-left: 10px;">
+    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="316.5px" height="185.5px" style="margin-left: 10px;">
   </a>
   </div>
 <li>
