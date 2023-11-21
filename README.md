@@ -16,7 +16,7 @@
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 ##### About Me
 <div align="center" >
-  <a href="https://liuxinghao.top/" align="right" >
+  <a href="https://leostar.top/" align="right" >
     <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="316.5px" height="185.5px" style="margin-left: 10px;">
   </a>
   </div>
@@ -30,7 +30,7 @@
 <b>Home page:</b> https://leostar.top
 </li>
 <li>
-<b>Blog:</b> https://blog.liuxinghao.top
+<b>Blog:</b> https://blog.leostar.top
 </li>
 <li>
 <b>Hobbys:</b> music🎵,guitar🎸,badminton🏸,code⛏
