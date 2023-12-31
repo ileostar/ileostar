@@ -54,8 +54,6 @@
 
 ### 🛠 Tech Stack
 
-#### Language & Framework
-
 <code><img height="40" src="https://api.iconify.design/skill-icons:typescript.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html"></code>&nbsp;
@@ -70,13 +68,11 @@
 <code><img height="40" src="https://api.iconify.design/devicon:qwik.svg" alt="qwik"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/skill-icons:rust.svg" alt="rust"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/skill-icons:golang.svg" alt="golang"></code>&nbsp;
-
-#### Tools
+<div style="margin: 1px;"/>
 <code><img height="40" src="https://api.iconify.design/devicon:webpack.svg" alt="webpack"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/devicon:netlify.svg" alt="netlify"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/devicon:githubactions.svg" alt="github action"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/logos:node-sass.svg" alt="sass"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/devicon:blender.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/devicon:git.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/skill-icons:vite-dark.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg"></code>&nbsp;
@@ -85,7 +81,6 @@
 <code><img height="40" src="https://api.iconify.design/devicon:git.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/skill-icons:github-dark.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-unocss.svg"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/skill-icons:photoshop.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/devicon:vscode.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/skill-icons:docker.svg"></code>&nbsp;
 
