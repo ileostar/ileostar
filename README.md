@@ -68,8 +68,8 @@
 <code><img height="40" src="https://api.iconify.design/skill-icons:nestjs-dark.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/devicon:qwik.svg" alt="qwik"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/skill-icons:rust.svg" alt="rust"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/skill-icons:golang.svg" alt="golang"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/devicon:python.svg" alt="python"></code>&nbsp;
+
 <div style="margin: 1px;"/>
 <code><img height="40" src="https://api.iconify.design/devicon:git.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/devicon:vscode.svg"></code>&nbsp;
@@ -79,7 +79,6 @@
 <code><img height="40" src="https://api.iconify.design/devicon:githubactions.svg" alt="github action"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/devicon:netlify.svg" alt="netlify"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/logos:node-sass.svg" alt="sass"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-unocss.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/logos:vueuse.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/devicon:vitest.svg"></code>&nbsp;
