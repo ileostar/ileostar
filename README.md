@@ -50,31 +50,21 @@
 ![](https://github-readme-stats.vercel.app/api?username=tinygeeker&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tinygeeker&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230)
 -->
-
-<div align="center">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%"  height="3">
-</div></br>
 <!-- ======================================= -->
 
-![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/-WebRTC-008000?style=flat-square&logo=WebRTC&labelColor=90EE90&color=fff) 
-![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D) 
-![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB) 
-![](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white) 
-![](https://img.shields.io/badge/-Electron-white?style=flat-square&logo=electron&logoColor=white&color=47848F) 
-![](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=Three.js) 
-![](https://img.shields.io/badge/-MiniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160) 
-![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) 
-![](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
-[![](https://img.shields.io/badge/-Gist-black?style=flat-square&logo=GitHub&labelColor=blue&color=fff&logoColor=fff)](https://gist.github.com/tinygeeker) ![](https://img.shields.io/badge/-Tampermonkey-black?style=flat-square&logo=Tampermonkey&labelColor=black&color=00485B) 
-![](https://img.shields.io/badge/-KaliLinux-white?style=flat-square&logo=KaliLinux&logoColor=white&color=blue) 
-![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1) 
-![](https://img.shields.io/badge/-CodePen-white?style=flat-square&logo=CodePen&logoColor=white&color=000) 
-![](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=Jenkins&labelColor=D24939&color=white&logoColor=white) 
-![](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=Docker&labelColor=2496ED&color=2496ED&logoColor=white) 
-![](https://img.shields.io/badge/-Bilibili-white?style=flat-square&logo=Bilibili&labelColor=00A1D6&logoColor=white)
+### 🛠 Tech Stack
+
+<code><img height="20" src="https://api.iconify.design/skill-icons:vuejs-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:typescript.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:vite-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:nuxtjs-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:tailwindcss-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:nodejs-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/logos:vueuse.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:vite-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:nestjs-dark.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/devicon:git.svg"></code>&nbsp;
+<code><img height="20" src="https://api.iconify.design/skill-icons:github-dark.svg"></code>&nbsp;
 
 <!-- ======================================= -->
 
