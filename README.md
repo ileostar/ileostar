@@ -1,25 +1,24 @@
-
-<h3 style="margin-bottom: -20px;">
+<h3 style="margin-bottom: -30px;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
   Hi there! I'm LeoStar~ 
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
   <a href="https://github.com/ileostar">
     <div align="right">
-      <img align="right" src="https://count.getloli.com/get/@:ileostar?theme=rule30" alt="LeoStar"  style="margin-top: 26px;"/>
+      <img align="right" src="https://count.getloli.com/get/@:ileostar?theme=rule30" alt="LeoStar"  style="margin-top: 60px;"/>
     </div>
   </a>
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Itim&size=25&pause=1000&center=假&vCenter=真&repeat=真&width=435&lines=A+front-end+developer+in+Guangdong)](https://git.io/typing-svg)
 <!-- ======================================= -->
-
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 ##### About Me
-<div align="center" >
+
+<div align="center" style="margin-top: -50px;">
   <a href="https://leostar.top/" align="right" >
-    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="316.5px" height="185.5px" style="margin-left: 10px;">
+    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="330.5px" height="205.5px" style="margin-left: 10px;">
   </a>
-  </div>
+</div>
 <li>
  <b>Name:</b> LeoStar
 </li>
