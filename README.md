@@ -51,6 +51,10 @@
 -->
 <!-- ======================================= -->
 
+## 🎯 Progress
+
+![](./machine.gif)
+
 ### 🛠 Focus on the technology stack
 
 <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html"></code>&nbsp;
@@ -88,5 +92,3 @@
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-  
-
