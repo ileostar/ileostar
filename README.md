@@ -52,46 +52,34 @@
 <!-- ======================================= -->
 
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
-</div>
-
-###
-
 ### 🎯 Progress
 
 ![](./machine.gif)
 
 ### 🛠 Focus on the technology stack
 
-<code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/skill-icons:javascript.svg" alt="js"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/skill-icons:typescript.svg"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/skill-icons:nodejs-dark.svg"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/devicon:vuejs.svg" alt="vue"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/devicon:react.svg" alt="react"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/logos:svelte-icon.svg" alt="svelte"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/logos:nextjs-icon.svg" alt="nextjs"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/devicon:astro.svg" alt="astro"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/skill-icons:nuxtjs-dark.svg"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/skill-icons:nestjs-dark.svg"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/devicon:qwik.svg" alt="qwik"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/skill-icons:rust.svg" alt="rust"></code>&nbsp;
-<code><img height="40" src="https://api.iconify.design/devicon:python.svg" alt="python"></code>&nbsp;
+<div align="center">
+  <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:javascript.svg" alt="js"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:typescript.svg"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:nodejs-dark.svg"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:vuejs.svg" alt="vue"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:react.svg" alt="react"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/logos:svelte-icon.svg" alt="svelte"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/logos:nextjs-icon.svg" alt="nextjs"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:astro.svg" alt="astro"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:nuxtjs-dark.svg"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:nestjs-dark.svg"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:qwik.svg" alt="qwik"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/skill-icons:rust.svg" alt="rust"></code>&nbsp;
+  <code><img height="40" src="https://api.iconify.design/devicon:python.svg" alt="python"></code>&nbsp;
+</div>
 
-<div style="margin: 1px;"/>
+
+<div style="margin: 2px;"/>
+
+<div align="center">
 <code><img height="40" src="https://api.iconify.design/devicon:git.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/devicon:vscode.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/skill-icons:vite-dark.svg"></code>&nbsp;
@@ -107,6 +95,8 @@
 <code><img height="40" src="https://api.iconify.design/devicon:nginx.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/skill-icons:prisma.svg"></code>&nbsp;
 <code><img height="40" src="https://api.iconify.design/skill-icons:docker.svg"></code>&nbsp;
+
+</div>
 
 <img src="https://raw.githubusercontent.com/ileostar/ileostar/output/snake.svg" alt="Snake animation" />
 
