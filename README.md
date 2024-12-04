@@ -43,7 +43,7 @@
 ##### GitHub status
   
 [![LeoStar's GitHub stats](https://github-immortality.vercel.app/api?username=ileostar)](https://github.com/ileostar)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ileostar&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&line_height=32&card_width=370)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ileostar&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&line_height=32&card_width=360)
 
 <!--
 ![LeoStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ileostar&show_icons=true&theme=cobalt&hide=issues&line_height=32&card_width=400px)
