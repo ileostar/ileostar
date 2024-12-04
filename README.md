@@ -42,8 +42,8 @@
 
 ##### GitHub status
   
-![LeoStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ileostar&show_icons=true&theme=cobalt&hide=issues&line_height=35)
-[![LeoStar's GitHub stats](https://github-immortality.vercel.app/api?username=ileostar&line_height=35)](https://github.com/ileostar)
+![LeoStar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ileostar&show_icons=true&theme=cobalt&hide=issues&line_height=32)
+[![LeoStar's GitHub stats](https://github-immortality.vercel.app/api?username=ileostar)](https://github.com/ileostar)
 
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ileostar&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=360)
