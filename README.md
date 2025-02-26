@@ -42,7 +42,15 @@
 
 ##### GitHub status
   
-[![LeoStar's GitHub stats](https://github-immortality.vercel.app/api?username=ileostar)](https://github.com/ileostar)
+
+<div align="center">
+  <a href="https://github.com/ileostar">
+    <img src="https://github-immortality.vercel.app/api?username=ileostar">
+  </a>
+  <a href="https://github.com/ileostar">
+    <img height="50%" width="40%" src="https://img.leostar.top/blog/20250227032952258.png">
+  </a>
+</div>
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileostar&langs_count=3&line_height=35)
